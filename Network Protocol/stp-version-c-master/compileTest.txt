@@ -1,0 +1,1 @@
+g++ BufferPacket.cpp Connection.cpp Header.cpp Interface.cpp Option.cpp Transmission.cpp Compression.cpp CongestionControl.cpp Nack.cpp Timers.cpp Test.cpp -lboost_system -lboost_thread -lpthread -o test
